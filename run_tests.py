@@ -29,3 +29,4 @@ if len(sys.argv) == 1 or int(sys.argv[1]) == 4:
 	print('Running test 4')
 	print('=================')
 	os.system('python -m pytest tests/ -m task0_4')
+
